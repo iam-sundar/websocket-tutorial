@@ -1,2 +1,2 @@
 # websocket-tutorial
-Working on WebSocket tutorial using Spring and Java
+WebSocket tutorial using Spring and Java
